@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo "enter value"
+what are you doing;
