@@ -1,12 +1,12 @@
 #!/bin/bash
 
-START_TIME=$(date+ %s)
+START_TIME=$(date +%s)
 
 echo "script started time at: $START_TIME"
 
 sleep 10
 
-END_TIME=$(date+ %s)
+END_TIME=$(date +%s)
 
 echo "script ended at: $END_TIME"
 
