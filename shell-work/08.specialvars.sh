@@ -11,3 +11,8 @@ echo "Who is running the process:$USER"
 echo "Directory of current script: $PWD"
 echo "Home directory of current script: $HOME"
 echo "Process ID of the current script: $$"
+echo "PID of the command running in background now: $!"
+echo "Line number present i am: $LINENO"
+
+echo "Status of the command executed or exit status: $?"
+echo "Total time taken for execution: $SECONDS"
