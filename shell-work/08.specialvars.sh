@@ -16,3 +16,5 @@ echo "Line number present i am: $LINENO"
 
 echo "Status of the command executed or exit status: $?"
 echo "Total time taken for execution: $SECONDS"
+
+echo "All args passed to the script as one word in total: $*"
