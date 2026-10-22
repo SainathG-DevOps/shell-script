@@ -1,6 +1,6 @@
 #!/bin/bash
 
-START_TIME=$(date+%s)
+START_TIME=$(date+ %s)
 
 echo "script started time at: $START_TIME "
 
@@ -13,7 +13,7 @@ echo "$Person1:: Hi $Person2, how are you."
 echo "$Person2:: I am good $Person1, hope you are doing great."
 echo "$Person1:: Well, well!! Let's meet sunday."
 
-END_TIME=$(date+%s)
+END_TIME=$(date+ %s)
 
 echo "script ended at: $END_TIME "
 
